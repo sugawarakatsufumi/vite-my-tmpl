@@ -1,0 +1,2 @@
+# vite-my-tmpl
+viteのテンプレート
